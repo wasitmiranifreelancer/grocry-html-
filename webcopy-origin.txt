@@ -1,0 +1,444 @@
+Uri: https://askbootstrap.com/preview/grofarweb/home.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\home.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/logo.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/slick.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\slick.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/slick-theme.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/icons/icofont.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\icons\icofont.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/css/style.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\css\style.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/sidebar/demo.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\sidebar\demo.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/listing.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\listing.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/search.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\search.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/status_complete.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\status_complete.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/status_onprocess.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\status_onprocess.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/cart.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\cart.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/product_details.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\product_details.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/picks_today.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\picks_today.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/recommend.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\recommend.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/fresh_vegan.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\fresh_vegan.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/checkout.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\checkout.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/successful.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\successful.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/my_order.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\my_order.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/status_canceled.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\status_canceled.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/review.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\review.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/verification.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\verification.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/promos.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\promos.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/promo_details.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\promo_details.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/terms_conditions.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\terms_conditions.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/privacy.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\privacy.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/terms&conditions.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\terms&conditions.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/help_support.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\help_support.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/help_ticket.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\help_ticket.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/refund_payment.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\refund_payment.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/faq.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\faq.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/signin.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\signin.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/signup.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\signup.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/my_account.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\my_account.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/my_address.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\my_address.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/1.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\1.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/2.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\2.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/3.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\3.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/4.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\4.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/5.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\5.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/6.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\6.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/7.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\7.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/categorie/8.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\categorie\8.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promo1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promo1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promo2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promo2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promo3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promo3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promo4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promo4.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v5.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v5.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v6.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v6.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v4.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r4.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r5.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r5.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r6.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r6.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r7.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r7.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r8.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r8.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/recommend/r9.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\recommend\r9.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/appstore.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\appstore.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/playmarket.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\playmarket.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/sidebar/hc-offcanvas-nav.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\sidebar\hc-offcanvas-nav.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/js/osahan.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\js\osahan.js
+Content Type: application/x-javascript
+
+Uri: https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\cdn-cgi\scripts\7089c43e\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/icons/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\icons\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://askbootstrap.com/preview/grofarweb/vendor/icons/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\vendor\icons\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+File Name: C:\Downloaded Web Sites\askbootstrap.com\css2.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/user.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\user.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v7.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v7.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v8.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v8.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v9.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v9.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v10.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v10.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v11.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v11.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/listing/v12.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\listing\v12.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/search/s1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\search\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/search/s2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\search\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/search/s3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\search\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/search/s4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\search\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/cart/g1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\cart\g1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/cart/g2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\cart\g2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/cart/g3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\cart\g3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/starter1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\starter1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g5.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g6.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g6.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g7.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g8.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g8.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/green/g9.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\green\g9.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promos/p1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promos\p1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promos/p2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promos\p2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/grofarweb/img/promos/p3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\img\promos\p3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://askbootstrap.com/preview/grofarweb/change_password.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\change_password.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/grofarweb/deactivate_account.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\grofarweb\deactivate_account.html
+Content Type: text/html
+
